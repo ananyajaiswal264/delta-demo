@@ -1,2 +1,2 @@
 # delta-demo
-this is just a demo
+this is just a demo.
